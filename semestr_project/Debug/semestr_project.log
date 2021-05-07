@@ -1,2 +1,10 @@
-﻿  semestr_project.cpp
+﻿  EdKarp.cpp
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(41,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(53,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(64,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\4sem\ASD\semestr_project\semestr_project\EdKarp.cpp(113,24): warning C4018: <: несоответствие типов со знаком и без знака
   semestr_project.vcxproj -> C:\Users\User\source\repos\4sem\ASD\semestr_project\Debug\semestr_project.exe

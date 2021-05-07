@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  semestr_project_test.cpp
+     Создается библиотека C:\Users\User\source\repos\4sem\ASD\semestr_project\Debug\semestr_project_test.lib и объект C:\Users\User\source\repos\4sem\ASD\semestr_project\Debug\semestr_project_test.exp
+semestr_project_test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall EdKarp::readList(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?readList@EdKarp@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: void __thiscall semestrprojecttest::semestrprojecttest::first(void)" (?first@semestrprojecttest@1@QAEXXZ).
+semestr_project_test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall EdKarp::MaxFlow(void)" (?MaxFlow@EdKarp@@QAEHXZ) в функции "public: void __thiscall semestrprojecttest::semestrprojecttest::first(void)" (?first@semestrprojecttest@1@QAEXXZ).
+C:\Users\User\source\repos\4sem\ASD\semestr_project\Debug\semestr_project_test.dll : fatal error LNK1120: неразрешенных внешних элементов: 2
