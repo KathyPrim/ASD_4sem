@@ -5,5 +5,5 @@ int main()
 {
     EdKarp* t = new EdKarp();
     t->readList("in.txt");
-    cout << t->MaxFlow();
+    cout << "MaxFlow is " << t->MaxFlow();
 }

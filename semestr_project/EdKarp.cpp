@@ -98,11 +98,11 @@ int EdKarp::findFlow() {
 	dList path;
 	path.push_back(from);
 	int* flow = new int[Vertices];
-	int* beforeVer = new int[Vertices];  //??
+	int* beforeVer = new int[Vertices];
 	for (size_t i = 0; i < Vertices; i++)
 	{
 		flow[i] = 0;
-		beforeVer[i] = 0;  //??
+		beforeVer[i] = 0;
 	}
 	beforeVer[to] = -1;
 	flow[from] = INT_MAX;
